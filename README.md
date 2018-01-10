@@ -1,0 +1,2 @@
+# ALPINE SENDMAIL
+> using msmtp
